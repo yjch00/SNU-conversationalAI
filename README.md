@@ -10,10 +10,9 @@ conda activate convai
 pip install -r requirements.txt
 ```
 
-### MySQL 설치
-- 로컬에 MySQL 설치 (DB명, 패스워드 필요)
-
 ### DB Config & OpenAI API Key 입력
+- 로컬에 MySQL 설치 (DB명, 패스워드 필요)
+- OpenAI API Key 발급
 - CalendarDB.py와 MemoDB.py의 '사용자가 입력' 부분에 OPENAI_API_KEY, db_config 입력
 
 ## RUN
