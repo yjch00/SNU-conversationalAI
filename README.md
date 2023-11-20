@@ -28,12 +28,7 @@ streamlit run MemoDB.py
 ```
 
 ## Screenshots
-### CalendarDB
 <p align="center">
-  <img src="images/CalendarDB.png" width="400">
-</p>
-
-### MemoDB
-<p align="center">
-  <img src="images/MemoDB.png" width="400">
+  <img src="images/CalendarDB.PNG" width="400">
+  <img src="images/MemoDB.PNG" width="400">
 </p>
