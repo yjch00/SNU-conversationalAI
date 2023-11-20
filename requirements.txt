@@ -1,0 +1,9 @@
+openai==0.28
+streamlit
+langchain
+chromadb
+tiktoken
+pymysql
+prettytable
+selenium
+unstructured
