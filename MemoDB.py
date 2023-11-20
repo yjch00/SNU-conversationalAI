@@ -163,7 +163,6 @@ def generate_response(intent, passage):
     elif intent == '<show>':
         return ['Your memo is below.', '============================='] + ['-' + memo for memo in db.get(where_document={'$contains': ' '})['documents']] + ['=============================']
 
-    # 이거 잘 되나?
     elif intent == '<update>':
         found_source = retriv_one(passage)
         # Delete
