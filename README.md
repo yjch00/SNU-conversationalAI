@@ -15,7 +15,7 @@ pip install -r requirements.txt
 - OpenAI API Key 발급
 - CalendarDB.py와 MemoDB.py의 '사용자가 입력' 부분에 OPENAI_API_KEY, db_config 입력
 
-## RUN
+## Usage
 ```
 # CalendarDB
 conda activate convai
