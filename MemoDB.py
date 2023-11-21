@@ -18,6 +18,7 @@ OPENAI_API_KEY =
 
 # 시작 시 db 폴더 비우고, restrat, clear all outputs 실행
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
+openai.api_key = OPENAI_API_KEY
 text_splitter = RecursiveCharacterTextSplitter()
 embeddings = OpenAIEmbeddings()
 llm = OpenAI()
