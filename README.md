@@ -1,5 +1,6 @@
-# SNU-conversationalAI
+# StoraGPT
 서울대학교 2023-2 대화형 자연어처리 수업 Team BDAI의 ChatGPT Mini-Project Repository입니다.
+StoraGPT는 LLangchain을 이용한 챗봇 형식의 개인 일정 및 메모 관리 어플리케이션입니다. 
 
 
 ## Requirements
