@@ -1,4 +1,4 @@
-서울대학교 2023-2 대화형 자연어처리 수업 Team BDAI의 ChatGPT Mini-Project Repository입니다.
+##### 서울대학교 2023-2 대화형 자연어처리 수업 Team BDAI의 ChatGPT Mini-Project Repository입니다.
 --------
 # StoraGPT
 
