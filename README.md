@@ -2,7 +2,7 @@
 --------
 # LangLog
 
-Langlog는 Langchain을 이용한 챗봇 형식의 개인 일정 및 메모 관리 어플리케이션입니다.  
+LangLog는 Langchain을 이용한 챗봇 형식의 개인 일정 및 메모 관리 어플리케이션입니다.  
   
 ## Requirements
 ### 가상환경 생성
